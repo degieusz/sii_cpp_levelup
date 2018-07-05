@@ -1,0 +1,1 @@
+/usr/bin/c++  -O3 -DNDEBUG  -rdynamic CMakeFiles/hello.dir/z.cpp.o CMakeFiles/hello.dir/src/llib.cpp.o  -o hello /usr/lib/i386-linux-gnu/libboost_program_options.so 

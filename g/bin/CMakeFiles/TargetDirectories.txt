@@ -1,0 +1,3 @@
+/home/dge/szkolenie/g/bin/CMakeFiles/rebuild_cache.dir
+/home/dge/szkolenie/g/bin/CMakeFiles/hello.dir
+/home/dge/szkolenie/g/bin/CMakeFiles/edit_cache.dir

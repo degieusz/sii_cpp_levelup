@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/iprint.h
+
+../include/llib.h
+
+../include/ob.h
+iostream
+-
+
+../include/print.h
+iprint.h
+-
+
+/home/dge/szkolenie/b/src/llib.cpp
+llib.h
+/home/dge/szkolenie/b/src/llib.h
+
+/home/dge/szkolenie/b/z.cpp
+iostream
+-
+boost/optional.hpp
+-
+llib.h
+/home/dge/szkolenie/b/llib.h
+ob.h
+/home/dge/szkolenie/b/ob.h
+iprint.h
+/home/dge/szkolenie/b/iprint.h
+print.h
+/home/dge/szkolenie/b/print.h
+vector
+-
+

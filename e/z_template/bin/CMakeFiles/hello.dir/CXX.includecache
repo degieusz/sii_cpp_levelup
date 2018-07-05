@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/llib.h
+
+/home/dge/z_template/src/llib.cpp
+llib.h
+/home/dge/z_template/src/llib.h
+
+/home/dge/z_template/z.cpp
+iostream
+-
+boost/optional.hpp
+-
+llib.h
+/home/dge/z_template/llib.h
+
